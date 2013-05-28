@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/86/trunk/maxmsp/TestPatches
+END
+AudioVariPlay1.3.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/61/trunk/maxmsp/TestPatches/AudioVariPlay1.3.maxpat
+END
+SamplePlayVolRtrigger.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/68/trunk/maxmsp/TestPatches/SamplePlayVolRtrigger.maxpat
+END
+Midi_BeatClock_out.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/86/trunk/maxmsp/TestPatches/Midi_BeatClock_out.maxpat
+END
+Single_sensor_volInvert.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/19/trunk/maxmsp/TestPatches/Single_sensor_volInvert.maxpat
+END
+perceptron1.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/54/trunk/maxmsp/TestPatches/perceptron1.maxpat
+END
+Single_sensor_volInvert2.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/48/trunk/maxmsp/TestPatches/Single_sensor_volInvert2.maxpat
+END

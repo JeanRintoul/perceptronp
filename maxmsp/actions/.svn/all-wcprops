@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/101/trunk/maxmsp/actions
+END
+CaptureNextNewInt.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/48/trunk/maxmsp/actions/CaptureNextNewInt.maxpat
+END
+networkedvisionforciafinal.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/77/trunk/maxmsp/actions/networkedvisionforciafinal.maxpat
+END
+BackwardDeltaVarThreshInt.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/28/trunk/maxmsp/actions/BackwardDeltaVarThreshInt.maxpat
+END
+midiscale.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/97/trunk/maxmsp/actions/midiscale.maxpat
+END
+SampleStream.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/97/trunk/maxmsp/actions/SampleStream.maxpat
+END
+ScaleToMidi.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/86/trunk/maxmsp/actions/ScaleToMidi.maxpat
+END
+Smooth5.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/95/trunk/maxmsp/actions/Smooth5.maxpat
+END
+ContinuousOutputCount.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/30/trunk/maxmsp/actions/ContinuousOutputCount.maxpat
+END
+delta_simple.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/101/trunk/maxmsp/actions/delta_simple.maxpat
+END
+AudioVolInvertVarRamp.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/46/trunk/maxmsp/actions/AudioVolInvertVarRamp.maxpat
+END
+NewInt.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/62/trunk/maxmsp/actions/NewInt.maxpat
+END
+ForwardDeltaThreshInt.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/31/trunk/maxmsp/actions/ForwardDeltaThreshInt.maxpat
+END
+HistoGate1.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/30/trunk/maxmsp/actions/HistoGate1.maxpat
+END
+OpenCountingGate.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/95/trunk/maxmsp/actions/OpenCountingGate.maxpat
+END
+AudioVolInvert.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/maxmsp/actions/AudioVolInvert.maxpat
+END
+Smooth10.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/95/trunk/maxmsp/actions/Smooth10.maxpat
+END
+DeltaThresholdStatic.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/28/trunk/maxmsp/actions/DeltaThresholdStatic.maxpat
+END
+ScaleToMidiR.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/97/trunk/maxmsp/actions/ScaleToMidiR.maxpat
+END
+ForwardDeltaVarThreshInt.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/30/trunk/maxmsp/actions/ForwardDeltaVarThreshInt.maxpat
+END
+BackwardDeltaThreshInt.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/29/trunk/maxmsp/actions/BackwardDeltaThreshInt.maxpat
+END
+ClosedCountingGate.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/20/trunk/maxmsp/actions/ClosedCountingGate.maxpat
+END
+ReadMes.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/62/trunk/maxmsp/actions/ReadMes.rtf
+END
+ThresholdEvalInput.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/trunk/maxmsp/actions/ThresholdEvalInput.maxpat
+END
+SamplePlayThresh.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/62/trunk/maxmsp/actions/SamplePlayThresh.maxpat
+END

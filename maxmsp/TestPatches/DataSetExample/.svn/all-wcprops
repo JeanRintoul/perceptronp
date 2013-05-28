@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/68/trunk/maxmsp/TestPatches/DataSetExample
+END
+DataOutput.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/22/trunk/maxmsp/TestPatches/DataSetExample/DataOutput.maxpat
+END
+SingleSensorDataStore.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/22/trunk/maxmsp/TestPatches/DataSetExample/SingleSensorDataStore.maxpat
+END
+Output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/68/trunk/maxmsp/TestPatches/DataSetExample/Output.txt
+END

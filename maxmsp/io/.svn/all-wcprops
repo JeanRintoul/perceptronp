@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/106/trunk/maxmsp/io
+END
+videoinput.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/52/trunk/maxmsp/io/videoinput.maxpat
+END
+videooutput.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/52/trunk/maxmsp/io/videooutput.maxpat
+END
+OSCReceive.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/106/trunk/maxmsp/io/OSCReceive.maxpat
+END
+TwoSensorInputCount.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/95/trunk/maxmsp/io/TwoSensorInputCount.maxpat
+END
+trackwithOSCout.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/68/trunk/maxmsp/io/trackwithOSCout.maxpat
+END
+FourSensorInputCount.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7/trunk/maxmsp/io/FourSensorInputCount.maxpat
+END
+SixteenSensorInputCount.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/19/trunk/maxmsp/io/SixteenSensorInputCount.maxpat
+END
+VideoDifference_S.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/78/trunk/maxmsp/io/VideoDifference_S.maxpat
+END
+track.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/71/trunk/maxmsp/io/track.maxpat
+END
+SingleSensorInputCount.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7/trunk/maxmsp/io/SingleSensorInputCount.maxpat
+END
+databracket.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/100/trunk/maxmsp/io/databracket.maxpat
+END
+videoinput1.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/53/trunk/maxmsp/io/videoinput1.maxpat
+END
+XYTrack_S.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/68/trunk/maxmsp/io/XYTrack_S.maxpat
+END
+OSCReceive_S.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/104/trunk/maxmsp/io/OSCReceive_S.maxpat
+END
+cameragestures.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/67/trunk/maxmsp/io/cameragestures.maxpat
+END
+MasterVideoData.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/98/trunk/maxmsp/io/MasterVideoData.maxpat
+END
+logarithmicdanceparty.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/76/trunk/maxmsp/io/logarithmicdanceparty.maxpat
+END
+VideoDifference.maxpat
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/68/trunk/maxmsp/io/VideoDifference.maxpat
+END
